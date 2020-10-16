@@ -1,0 +1,19 @@
+Q1. What do you see on the command screen?
+Q2. Use the command git status again and explain what has changed?
+Q3. What is the output of the command? What is the current status?
+Q4. What can be a good message for the first commit? What is the current status?
+Q5. How many commits there are in the log? What are the first seven digits
+(letters and numbers) that identify the first README.md commit?
+Q6. Modify one line of the README.md, add to the staging area and
+commit. Then use the command git show HEAD, and explain the output.
+Q7. Rewrite the sentence you restored with the previous command.
+Q8. Create a new branch called “documents”
+Q9. Add the file and make a commit with a nice message. What is the
+content of the README.md in both branches?
+
+Q10. Write the answers to the first 5 questions in the answers.txt file of
+the “master” branch, and write the rest of answers of the same file but in the
+“documents” branch. In the next step, we have to add and commit both changes
+in their respective branches. Then move to the “master” branch and merge the
+“documents” branch. Do you have conflicts?
+Q11. In which branch are you? What branches do you have?
