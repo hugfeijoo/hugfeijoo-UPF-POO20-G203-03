@@ -1,0 +1,5 @@
+7	     7	          7	      7	           7 			7        7
+Clases	Atributos constructor     Métodos       Scope 	            Report	FINAL
+                  y parámetros   y parámetros  (private o públic)
+
+
